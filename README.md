@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **A cup of java makes me get the job done**
 
+- 🔭 GOALS - **I'm motivated to grow as a code writer and contribute to a company's projects and success**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcelo a. santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo a. santos" height="30" width="40" /></a>
