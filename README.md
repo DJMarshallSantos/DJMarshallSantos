@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=djmarshallsantos" alt="djmarshallsantos" /></a> </p>
 
-- 🔭 I’m currentyl taking a course **on backend Module 4 at Blue EdTech**
+- 🔭 I’m currently taking a course **on backend Module 5 - Extended Week at Blue EdTech**
 
-- 🌱 I’m currently learning **nestjs, prisma, typescript**
+- 🌱 I’m currently learning Clean Code Principles **nestjs, prisma, typescript, graphQL, docker**
 
 - 📫 How to reach me **marceloaquinodossantos@gmail.com**
 
