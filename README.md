@@ -1,8 +1,8 @@
 Welcome!<br>
-I'm Marcelo Santos, AKA DJ Marshall.
-I started in programing in January, 2022 in Module 01 - C012 at Blue EdTech.
-It's a long fun journey of knowledge acquirement. 6-non-stop hours of studies in the most used worldwide used technologies in 
-Web Development.
+I'm Marcelo Santos, AKA DJ Marshall.<br>
+I started in programing in January, 2022 in Module 01 - C012 at Blue EdTech.<br>
+It's a long fun journey of knowledge acquirement.<br> 
+6-non-stop hours of studies in the most used worldwide used technologies in Web Development.
 I'm a fast learner. Full of stamina and will to learn and improve myself as a professional. I work smoothly in workforces.
 Feel free to browse my github page as you see fit.
 
