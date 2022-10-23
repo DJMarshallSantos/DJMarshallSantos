@@ -3,8 +3,8 @@ Olá! Bem vindo!!
 
 <div>
   <a href="https://github.com/DJMarshallSantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DJMarshallSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DJMarshallSantos&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div>
@@ -23,4 +23,4 @@ Olá! Bem vindo!!
   <a href="https://www.linkedin.com/in/marcelo-a-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-76141b85?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-  ![Snake animation](https://github.com/DJMarshallSantos/Marcelo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DJMarshallSantos/DJMarshallSantos/blob/output/github-contribution-grid-snake.svg)
