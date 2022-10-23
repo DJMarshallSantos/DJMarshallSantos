@@ -19,11 +19,8 @@ Olá! Bem vindo!!
 ##
   
 <div>
-  <a href="mailto:marceloaquinodossantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/marcelo-a-santos-76141b85/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-76141b85?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="marceloaquinodossantos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/marcelo-a-santos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-76141b85?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
   
-  ![Snake animation](https://github.com/DJMarshallSantos/blob/output/github-contribution-grid-snake.svg)
-
-
-
+  ![Snake animation](https://github.com/DJMarshallSantos/Marcelo/blob/output/github-contribution-grid-snake.svg)
